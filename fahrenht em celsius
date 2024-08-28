@@ -1,0 +1,4 @@
+tempF=input("Digite a temperatura em Fahrenheint: ")
+tempF=float(tempF)
+tempC=5/9*(tempF -32)
+print("A temperatura em graus Celcius e:", tempC)
