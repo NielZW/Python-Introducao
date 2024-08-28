@@ -1,0 +1,8 @@
+vlr_base=input("Digite o valor da base do triangulo: ")
+vlr_alt=input("Digite a altura do triangulo: ")
+vlr_base=int(vlr_base)
+vlr_alt=int(vlr_alt)
+
+areaTriangulo=(vlr_base * vlr_alt)/2
+
+print("A area do triangulo e: ", areaTriangulo)
