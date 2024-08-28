@@ -1,0 +1,7 @@
+num1=10
+num2=5
+num3=20
+
+print(num1 ==10 and num2!=5)
+print(num1>num2 or num3>10)
+print(not num3>num2)
